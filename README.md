@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Konstantin Auffinger
-- 👀 I’m interested in React Native App Dev, Node.js and Machine Learning, Photography
-- 🌱 I’m currently learning Node.js, C#, PHP, React Native
+- 👀 I’m into Node, Next, React, Laravel and Docker containers
 - 📫 How to reach me: https://www.instagram.com/k96photography/
