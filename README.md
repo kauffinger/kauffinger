@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Konstantin Auffinger
-- 👀 I’m into Node, Next, React, Laravel and Docker containers
+- 👀 I’m into Node, Next, React, Laravel and Docker.
 - 📫 How to reach me: https://www.instagram.com/k96photography/
