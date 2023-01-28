@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Konstantin Auffinger
-- 👀 I’m into Node, Next, React, Laravel and GitOps.
+- 👀 I’m into Next, Laravel, GitOps and LLMs.
 - 📫 How to reach me: https://www.instagram.com/k96photography/
