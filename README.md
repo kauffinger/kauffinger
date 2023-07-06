@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Konstantin Auffinger
-- 👀 I’m into Laravel, GitOps and LLMs.
+- 👀 I’m into Laravel, NeoVIM, GitOps and LLMs.
 - 📫 How to reach me: https://www.instagram.com/kauffinger/
