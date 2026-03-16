@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Konstantin Auffinger, MSc. Information Systems
 - 👀 I’m into Laravel, NeoVIM, and LLMs.
-- 📫 How to reach me: https://x.com/k_auffinger
+- 📫 How to reach me: https://x.com/kauffinger
